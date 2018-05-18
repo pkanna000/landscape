@@ -508,6 +508,13 @@ landscape:
             twitter: 'https://twitter.com/diamanticom'
             crunchbase: 'https://www.crunchbase.com/organization/diamanti'
           - item:
+            name: DRBD
+            homepage_url: 'https://linbit.com/'
+            repo_url: 'https://github.com/LINBIT/'
+            logo: ./hosted_logos/drbd.svg
+            twitter: 'https://twitter.com/linbit'
+            crunchbase: 'https://www.crunchbase.com/organization/linbit'
+          - item:
             name: Gluster
             homepage_url: 'https://www.gluster.org/'
             repo_url: 'https://github.com/gluster/glusterfs'
