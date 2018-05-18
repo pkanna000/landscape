@@ -510,7 +510,7 @@ landscape:
           - item:
             name: DRBD
             homepage_url: 'https://linbit.com/'
-            repo_url: 'https://github.com/LINBIT/'
+            repo_url: 'https://github.com/LINBIT/linstor-flexvolume'
             logo: ./hosted_logos/drbd.svg
             twitter: 'https://twitter.com/linbit'
             crunchbase: 'https://www.crunchbase.com/organization/linbit'
